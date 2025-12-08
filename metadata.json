@@ -1,0 +1,5 @@
+{
+  "name": "Student Rewards",
+  "description": "A digital loyalty card application for tutors to track student progress, manage rewards, and share read-only progress cards via URL.",
+  "requestFramePermissions": []
+}
